@@ -1,7 +1,6 @@
 streamlit
-fpdf
+transformers==4.31.0
+torch==2.1.0
+reportlab==3.6.11
 googletrans==4.0.0-rc1
-transformers
-torch
-reportlab
-markdown
+markdown==3.4.3
